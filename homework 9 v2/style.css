@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+.text1 {
+    text-align: center;
+}
+.txt1 {
+    height: auto;
+    width: 100%;
+}
+.txt2 {
+    height: auto;
+    width: 50%;
+    float: right;
+}
+.txt3 {
+    height: auto;
+    width: 100%;
+    padding-top: 250px;
+    padding-bottom: 10%;
+}
